@@ -8,6 +8,17 @@ DocFinder/
 ├── backend/         # Django backend
 └── frontend/        # React frontend
 ```
+## Tech Stack
+
+**Backend:**
+- Django (Python)
+- SQLite (database)
+- Celery + Redis (background tasks)
+- SendGrid (transactional email)
+- OpenAI API (AI chat assistant)
+
+**Frontend:**
+- React
 
 ## Setup Instructions
 
@@ -77,4 +88,5 @@ The application will be available at:
 - User authentication
 - Health journal management
 - Medical facility search and reviews
-- AI-powered chat assistance 
+- AI-powered chat assistance
+- TimeFilter Commitment
