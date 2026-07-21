@@ -1,6 +1,6 @@
 # DocFinder
 
-A web application for finding and reviewing medical facilities, managing health journals, and chatting with an AI assistant.
+An app that helps you locate and review medical facilities, keep track of your health journal, and get support through an AI chat assistant.
 
 ## Project Structure
 ```
